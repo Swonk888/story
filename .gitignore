@@ -1,0 +1,4 @@
+secrets.txt
+
+#Ignored whiles
+# *. txt   (ignores all txt files)
